@@ -1,0 +1,2 @@
+# abstractMind
+decribe to abstract
